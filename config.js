@@ -29,12 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Mishka is an intern practicing medicine in Cape Town, South Africa.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'how2happyinfo@gmail.com',
     }
   }
 };
