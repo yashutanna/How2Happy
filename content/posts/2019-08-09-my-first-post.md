@@ -9,7 +9,7 @@ category: welcome
 tags:
   - welcome
 ---
-# This is the first How2Happy Post
+## This is the first How2Happy Post
 
 My lovely boyfriend has helped me set this up.
 
