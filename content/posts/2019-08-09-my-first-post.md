@@ -2,7 +2,7 @@
 template: post
 title: My First Post
 slug: welcome
-draft: true
+draft: false
 date: 2019-08-09T18:22:49.685Z
 description: This is the first post on How 2 Happy
 category: welcome
